@@ -12,7 +12,7 @@ Utilizei o ChatGPT para desenvolver o conteúdo do e-book e criar toda a parte v
 
 ## 🚀 Resultados
 O e-book "Mente Sã, Corpo Ativo" oferece valiosas dicas de bem-estar voltadas para colaboradores, com foco em saúde mental e atividade física. Ele destaca como pequenas mudanças no dia a dia podem gerar grandes benefícios para a qualidade de vida. Com imagens presentes em todos os capítulos, o e-book proporciona uma leitura leve, envolvente e dinâmica.
-O E-book está anexado no projeto "Mente Sã, Corpo Ativo. pdf"
+O E-book está anexado no projeto "Mente Sã, Corpo Ativo1.pdf"
 
 ## 💭 Reflexão (Opcional)
 O uso do ChatGPT na criação do e-book "Mente Sã, Corpo Ativo" exemplifica como a tecnologia pode ser uma aliada poderosa na promoção de conhecimento e bem-estar. Ao explorar temas como saúde mental e atividade física, a inteligência artificial contribuiu para a elaboração de um conteúdo claro, prático e repleto de insights úteis.
